@@ -11,6 +11,5 @@ Tampermonkey Userscript Advanced Filtering Options for the Live TV Page on [Joyn
 * Hide/Show SD Stations
 * Hover over the TV Program to see the Full Name
 <br>
-<br>
 
 ![Image](image.jpg)
